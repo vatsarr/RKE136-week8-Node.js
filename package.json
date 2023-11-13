@@ -1,0 +1,12 @@
+{
+  "name": "week9-node",
+  "version": "1.0.0",
+  "description": "school stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Risto Vatsar",
+  "license": "ISC"
+}
